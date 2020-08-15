@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SHOPPERZ</string>
+    <string name="Msg1">Welcome</string>
+    <string name="Msg2">Login</string>
+    <string name="Msg3">Create Account</string>
+    <string name="Msg4">Reset Password</string>
+    <string name="login_to">please wait</string>
+    <string name="as_a_admin">As a Admin</string>
+    <string name="delivery">Delivery</string>
+
+
+</resources>
